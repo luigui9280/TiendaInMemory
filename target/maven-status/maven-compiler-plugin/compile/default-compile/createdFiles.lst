@@ -1,0 +1,8 @@
+com\tienda\memory\exception\GlobalExceptionHandler.class
+com\tienda\memory\TiendaMemoryApplication.class
+com\tienda\memory\exception\ProductoNotFoundException.class
+com\tienda\memory\TiendaInMemory.class
+com\tienda\memory\controller\ProductoController.class
+com\tienda\memory\model\Producto.class
+com\tienda\memory\service\ProductoService.class
+com\tienda\memory\repository\ProductoRepository.class
