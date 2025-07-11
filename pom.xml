@@ -22,7 +22,7 @@
     <maven.compiler.target>17</maven.compiler.target>
     <start-class>com.tienda.memory.TiendaMemoryApplication</start-class>
     <java.version>17</java.version>
-    </properties>
+    </properties> 
 
     <dependencies>
         <!-- Spring Boot Web -->
